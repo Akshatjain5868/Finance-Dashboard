@@ -1,4 +1,3 @@
-# Finance-Dashboard
 # Finance Dashboard
 
 ## Overview
